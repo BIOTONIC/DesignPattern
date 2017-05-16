@@ -2,7 +2,7 @@ package ProxyPattern;
 
 /**
  * Created by lovejoy on 11/05/2017.
- * 
+ *
  * http://blog.csdn.net/lovelion/article/details/8227953
  * Provide a placeholder for another object to control access to it.
  */
