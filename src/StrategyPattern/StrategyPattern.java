@@ -4,6 +4,7 @@ package StrategyPattern;
  * Created by lovejoy on 18/05/2017.
  *
  * http://blog.csdn.net/lovelion/article/details/7819136
+ * http://blog.csdn.net/lovelion/article/details/7819266
  */
 abstract class AbstractStrategy {
     public abstract void algorithm();
